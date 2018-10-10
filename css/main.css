@@ -38,8 +38,8 @@ nav a:hover {
   text-decoration: underline;
 }
 
-.intro {
-  font-size: 1.125rem;
+.p {
+  font-weight: bolder;
 }
 
 .blockquote {
@@ -60,7 +60,6 @@ ul {
 .serving {
   font-style: italic;
   font-weight: normal;
-  font-size: .8rem;
 }
 
 a {
@@ -71,4 +70,8 @@ a {
 a:hover {
   color: #3f1622;
   text-decoration: underline;
+}
+
+dt {
+  font-weight: bolder;
 }
