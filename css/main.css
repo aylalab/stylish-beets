@@ -1,8 +1,8 @@
 html {
   background-color: #c9b5ab;
   font-family: "PT Serif", sans-serif;
-  font-weight: normal;
   line-height: 1.5;
+  font-weight: normal;
 }
 
 img {
@@ -22,7 +22,6 @@ figcaption {
 
 nav {
   font-size: 1.125rem;
-  font-weight: bold;
 }
 
 nav ol {
@@ -38,19 +37,38 @@ nav a:hover {
   color: #3f1622;
   text-decoration: underline;
 }
-main > p, dt {
-  font-family: "PT Serif", sans-serif;
+
+.intro {
+  font-size: 1.125rem;
 }
 
 .blockquote {
   font-size: 1.5rem;
   font-style: italic;
-  font-weight: normal;
   text-align: center;
 }
 
 .cite {
   font-size: .8rem;
   font-style: italic;
+}
+
+ul {
+  font-size: .8rem;
+}
+
+.serving {
+  font-style: italic;
   font-weight: normal;
+  font-size: .8rem;
+}
+
+a {
+  color: #8f2440;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #3f1622;
+  text-decoration: underline;
 }
