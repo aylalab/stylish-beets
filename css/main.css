@@ -1,11 +1,23 @@
 html {
   background-color: #c9b5ab;
+  font-family: "PT Serif", sans-serif;
+  line-height: 1.5;
+}
+
+img {
+  width: 100%
 }
 
 header, h1, h2 {
   font-family: "PT Sans", sans-serif;
+  color: #3f1622;
 }
 
+figcaption {
+  font-size: .8rem;
+  font-style: italic;
+  text-align: center;
+}
 main > p, dt {
   font-family: "PT Serif", sans-serif;
 }
