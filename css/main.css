@@ -42,15 +42,23 @@ nav a:hover {
   font-weight: bolder;
 }
 
+.intro {
+  font-size: .8rem;
+}
+
 .blockquote {
-  font-size: 1.5rem;
+  font-size: 1.125rem;
   font-style: italic;
-  text-align: center;
+  font-weight: bolder;
 }
 
 .cite {
   font-size: .8rem;
   font-style: italic;
+}
+
+.ol {
+  font-size: .8rem;
 }
 
 ul {
