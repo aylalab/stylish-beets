@@ -1,6 +1,7 @@
 html {
   background-color: #c9b5ab;
   font-family: "PT Serif", sans-serif;
+  font-weight: normal;
   line-height: 1.5;
 }
 
@@ -44,5 +45,12 @@ main > p, dt {
 .blockquote {
   font-size: 1.5rem;
   font-style: italic;
+  font-weight: normal;
   text-align: center;
+}
+
+.cite {
+  font-size: .8rem;
+  font-style: italic;
+  font-weight: normal;
 }
