@@ -11,6 +11,7 @@ img {
 
 header, h1, h2 {
   font-family: "PT Sans", sans-serif;
+  font-size: 1.5rem;
   color: #3f1622;
 }
 
@@ -47,7 +48,7 @@ nav a:hover {
 }
 
 .blockquote {
-  font-size: 1.125rem;
+  font-size: 1.5rem;
   font-style: italic;
   font-weight: bolder;
 }
@@ -58,11 +59,11 @@ nav a:hover {
 }
 
 .ol {
-  font-size: .8rem;
+  font-size: 1.125rem;
 }
 
 ul {
-  font-size: .8rem;
+  font-size: 1.125rem;
 }
 
 .serving {
